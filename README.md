@@ -53,6 +53,11 @@ output files.
 
     pip install -r requirements.txt
 
+## ▶️ How to Use
+
+1.  Edit `data/prompt.json` to customize extraction rules\
+2.  Run `main.ipynb` to launch the workflow\
+3.  Extracted results will appear in `data/save_data/`
 
 
 # Authors
@@ -60,9 +65,3 @@ output files.
 * [Andrea Alessandrelli](mailto:andrea.alessandrelli@phd.unipi.it)
 * [Pasquale Maritato](mailto:p.maritato@studenti.unipi.it)
 * [Fabrizio Tomasso](mailto:f.tomasso@studenti.unipi.it)
-
-## ▶️ How to Use
-
-1.  Edit `data/prompt.json` to customize extraction rules\
-2.  Run `main.ipynb` to launch the workflow\
-3.  Extracted results will appear in `data/save_data/`
