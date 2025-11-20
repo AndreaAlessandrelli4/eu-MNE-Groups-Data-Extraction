@@ -53,6 +53,14 @@ output files.
 
     pip install -r requirements.txt
 
+
+
+# Authors
+
+* [Andrea Alessandrelli](mailto:andrea.alessandrelli@phd.unipi.it)
+* [Pasquale Maritato](mailto:p.maritato@studenti.unipi.it)
+* [Fabrizio Tomasso](mailto:f.tomasso@studenti.unipi.it)
+
 ## ▶️ How to Use
 
 1.  Edit `data/prompt.json` to customize extraction rules\
