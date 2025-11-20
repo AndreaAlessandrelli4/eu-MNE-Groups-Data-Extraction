@@ -1,0 +1,7 @@
+pandas
+requests
+tqdm
+beautifulsoup4
+PyPDF2
+googlesearch-python
+openai
